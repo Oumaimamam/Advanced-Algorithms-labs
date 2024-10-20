@@ -2,4 +2,4 @@
 Lund University Advanced Algorithms course Labs.
 
 ## Maxcut ##
-Solves le Maxcut problem using randomized and greedy algorithms.
+Solves the Maxcut problem using **randomized** and **greedy** algorithms.
